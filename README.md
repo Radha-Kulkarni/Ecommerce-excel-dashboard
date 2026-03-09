@@ -12,13 +12,23 @@ Business Question: "Which markets and products drive the most revenue — and wh
 
 ---
 
+## Download Full Workbook
+
+The Excel workbook exceeds GitHub's 25MB file size limit and is hosted on Google Drive.
+
+[Download Ecommerce_db_analysis.xlsx](https://docs.google.com/spreadsheets/d/1l_97hBvR2X1BscybRanEKRcLTmAePNgW/edit?usp=sharing&ouid=116625825057905562395&rtpof=true&sd=true)
+
+Note: Open in Microsoft Excel 2016 or later for full functionality including slicers and pivot tables.
+
+---
+
 ## File Structure
 ```
 Ecommerce_Dataset_analysis/
 │
 ├── Ecommerce_db_csv.xlsx          # Raw dataset (UCI E-Commerce, imported as CSV)
 │
-├── Ecommerce_db_analysis.xlsx     # Main Excel workbook
+├── Ecommerce_db_analysis.xlsx     # Main Excel workbook (hosted on Google Drive)
 │   ├── Ecommerce_Raw_Data         # Original untouched dataset
 │   ├── Ecommerce_Working_Sheet    # Cleaned and enriched data
 │   ├── Pivot Tables               # Analysis pivot tables
@@ -106,7 +116,7 @@ Ecommerce_Dataset_analysis/
 
 ## How to Use
 
-1. Download Ecommerce_db_analysis.xlsx
+1. Download Ecommerce_db_analysis.xlsx from the Google Drive link above
 2. Open in Microsoft Excel 2016 or later
 3. Navigate to the Dashboard sheet
 4. Use the Clean_Country and Month-Year slicers to filter all charts simultaneously
