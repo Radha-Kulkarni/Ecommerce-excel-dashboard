@@ -16,9 +16,14 @@ Business Question: "Which markets and products drive the most revenue — and wh
 
 The Excel workbook exceeds GitHub's 25MB file size limit and is hosted on Google Drive.
 
-[Download Ecommerce_db_analysis.xlsx](https://docs.google.com/spreadsheets/d/1l_97hBvR2X1BscybRanEKRcLTmAePNgW/edit?usp=sharing&ouid=116625825057905562395&rtpof=true&sd=true)
+[Download Ecommerce_db_analysis.xlsx](https://drive.google.com/uc?export=download&id=1l_97hBvR2X1BscybRanEKRcLTmAePNgW)
 
-Note: Open in Microsoft Excel 2016 or later for full functionality including slicers and pivot tables.
+**Note on Google Drive warning:** When you click the link, Google Drive will display a virus scan warning because the file exceeds 100MB. The file is completely safe — this is a standard Google Drive message for large files. To download, simply click "Download anyway" on that screen.
+
+1. Click the download link above
+2. Click "Download anyway" on the Google Drive warning screen
+
+Open in Microsoft Excel 2016 or later for full functionality including slicers and pivot tables.
 
 ---
 
@@ -107,7 +112,7 @@ Ecommerce_Dataset_analysis/
 
 ## Dataset
 
-- Source: UCI E-Commerce Dataset on Kaggle — https://www.kaggle.com/datasets/carrie1/ecommerce-data
+- Source: [UCI E-Commerce Dataset on Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
 - Size: approximately 500,000 transactions after cleaning
 - Period: December 2010 to December 2011
 - Region: UK-based online retailer shipping to 39 countries
